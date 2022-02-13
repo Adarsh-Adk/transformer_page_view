@@ -1,9 +1,8 @@
 library transformer_page_view;
 
 import 'package:flutter/widgets.dart';
-import 'package:transformer_page_view_tv/index_controller.dart';
-export 'package:transformer_page_view_tv/index_controller.dart';
-export 'package:transformer_page_view_tv/parallax.dart';
+
+import 'index_controller.dart';
 
 ///
 /// NOTICE::
